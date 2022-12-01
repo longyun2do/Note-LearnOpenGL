@@ -6,8 +6,6 @@ note of learnopengl, in order to master it !
 视锥剔除、
 数据准备
 ### 几何处理阶段
-
 ### 光栅化阶段
-
 ### 测试阶段
 
